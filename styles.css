@@ -31,7 +31,7 @@ body {
   
   .result-score {
     margin-left: .1rem;
-    font-size: .5rem;
+    font-size: 1rem;
     color: #333;
   }
   
@@ -42,4 +42,8 @@ body {
   .result-selection.winner {
     opacity: 1;
     font-size: 1.5rem;
+  }
+
+  div {
+    font-size: large;
   }
